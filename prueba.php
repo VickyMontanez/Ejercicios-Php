@@ -9,6 +9,9 @@ echo "<h2>Esta es una etiqueta HTML en PHP</h2>";
 
 echo "<h2>Esta es una etiqueta HTML en PHP pero no acepta ESTILOS</h2>";
 
-print "Hola Mundox2";
+/* La direfencia entre print y echo es */
+print "Print solome puede mostrar 1 cosa";
+echo "<p>   </p>";
+echo "Echo me puede mostrar más de 1, ", "cosa 2, ", "cosa 3, ", "cosa 4, ", " y cosa 5."
 
 ?>
